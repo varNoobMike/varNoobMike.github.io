@@ -38,10 +38,16 @@
   
   
   
+  
   .text, .image{
     background-color: #f8f9fa;
     padding: 1.5rem;
     border-radius: 1rem;
+  }
+
+  .text:hover, .image:hover{
+    opacity: 0.8;
+
   }
   
   .text h2{
