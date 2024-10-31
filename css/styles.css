@@ -45,10 +45,6 @@
     border-radius: 1rem;
   }
 
-  .text:hover, .image:hover{
-    opacity: 0.8;
-
-  }
   
   .text h2{
     margin: 0 0 0.50rem 0;
@@ -67,7 +63,8 @@
     border-radius: 0.25rem;
   }
 
+
   footer{
     font-size: 1.1rem;
     font-style: italic;
-      }
+  }
