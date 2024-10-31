@@ -33,7 +33,9 @@
     padding: 2rem;
     font-size: 1.2rem;
     display: grid;
+    grid-template-rows: 10rem 30rem;
     grid-gap: 1rem;
+    
   }
   
   
